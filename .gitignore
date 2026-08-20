@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+env/
+
+# Datos (pesados o sensibles, no se versionan)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Figuras generadas (opcional, descomenta si no quieres versionarlas)
+# figures/*.png
+
+# Sistema
+.DS_Store
