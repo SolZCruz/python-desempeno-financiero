@@ -1,3 +1,5 @@
+**Español** | [English](README.en.md)
+
 # Análisis Financiero de las 1000 Empresas más Grandes de Colombia
 
 Análisis exploratorio en Python (pandas, seaborn, matplotlib) sobre el desempeño financiero de las 1000 empresas más grandes de Colombia, comparando los años 2017 y 2018.
