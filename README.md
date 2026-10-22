@@ -4,7 +4,7 @@ Análisis exploratorio en Python (pandas, seaborn, matplotlib) sobre el desempe�
 
 ## Fuente de datos
 
-[Datos Abiertos Colombia — 1000 Empresas más grandes del país](https://www.datos.gov.co/Econom-a-y-Finanzas/1000-Empresas-mas-grandes-del-pa-s/8hn7-rpp8)
+[Datos Abiertos Colombia — 1000 Empresas más grandes del país](https://siis.ia.supersociedades.gov.co/MilEmpresas/index.html#/)
 
 Información financiera individual (no consolidada) de empresas supervisadas por la Superintendencia de Sociedades, Superintendencia Financiera, Superintendencia Nacional de Salud, Superintendencia de Servicios Públicos y Superintendencia de Vigilancia y Seguridad Privada.
 
