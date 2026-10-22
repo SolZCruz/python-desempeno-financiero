@@ -1,3 +1,5 @@
+**Español** | [English](results.en.md)
+
 # Informe: Desempeño Financiero de las 1000 Empresas más Grandes de Colombia
 
 **Autora:** Sol Zharick Cruz Ariza
